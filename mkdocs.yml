@@ -1,0 +1,8 @@
+site_name: "testComponenReact"
+site_description: "react"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
